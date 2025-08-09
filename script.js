@@ -6,7 +6,7 @@ const skillData = {
     offerer: {
       name: "Sameer Husain",
       bio: "CS student, Unity College",
-      pic: "/me.png",
+      pic: "me.png",
     },
   },
   "web-development": {
