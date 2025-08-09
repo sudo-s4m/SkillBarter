@@ -224,6 +224,7 @@ header {
   box-shadow: 0 6px 15px rgba(39, 174, 96, 0.4);
   transition: background-color 0.3s ease;
   user-select: none;
+  width: 100%;
 }
 
 .bart-btn:hover {
