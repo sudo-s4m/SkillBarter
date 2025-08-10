@@ -14,9 +14,9 @@ const skillData = {
     description:
       "Build responsive websites using HTML, CSS, and JavaScript, and learn about frontend frameworks.",
     offerer: {
-      name: "Emily Smith",
+      name: "Md. Sajjad Baqri",
       bio: "Full-stack developer specializing in frontend technologies.",
-      pic: "https://randomuser.me/api/portraits/women/45.jpg",
+      pic: "https://randomuser.me/api/portraits/men/45.jpg",
     },
   },
   photography: {
@@ -24,9 +24,9 @@ const skillData = {
     description:
       "Master the fundamentals of photography, including composition, lighting, and editing techniques.",
     offerer: {
-      name: "Michael Brown",
+      name: "Saqina Alberto",
       bio: "Professional photographer with 10+ years experience in portrait and landscape photography.",
-      pic: "https://randomuser.me/api/portraits/men/67.jpg",
+      pic: "https://randomuser.me/api/portraits/women/24.jpg",
     },
   },
 };
